@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ years of experience building scalable, accessible, and user-focused web applications. I specialize in **React**, **TypeScript**, and **cloud-based architecture**, and I'm currently exploring the intersection of **AI and product management**.
 
-🧪 I'm currently exploring LLM-related beginner projects to deepen my hands-on understanding of applied AI and prompt engineering
+🧪 I'm currently working on LLM-related beginner projects to deepen my hands-on understanding of applied AI and prompt engineering
 
 
 ## 🔧 Skills & Tools
