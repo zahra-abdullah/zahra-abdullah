@@ -36,11 +36,34 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 
 ## Interests
 
-### Anime & Books
+### Anime
 - 📺 Anime / Manga enthusiast - whats even happening now in OnePiece
+
   ![One Piece](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2aDA2eDgwcW43dmZ2ZG9wOHdsNnQxd3cwcnk4cWJkMHFwMGpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif)
+
+### Books
 - 📚 Avid reader
 
+**I will pick these folks over any other authors**
+
+![Stephen King](https://img.shields.io/badge/Stephen%20King-Horror%20Master-red?style=flat)
+![Sujatha](https://img.shields.io/badge/Sujatha-Tamil%20Sci--Fi-orange?style=flat)
+
+
+**These are few other who defined my teenage and reading era**
+
+
+  ![Dan Brown](https://img.shields.io/badge/Dan%20Brown-Thriller-blue?style=flat)
+  ![Yasir Qadhi](https://img.shields.io/badge/Yasir%20Qadhi-Islamic%20Scholar-green?style=flat)
+  ![Jeyamohan](https://img.shields.io/badge/Jeyamohan-Tamil%20Literature-purple?style=flat)
+  ![Gabriel García Márquez](https://img.shields.io/badge/Gabriel%20García%20Márquez-Magical%20Realism-yellow?style=flat)
+  ![Anton Chekhov](https://img.shields.io/badge/Anton%20Chekhov-Russian%20Classic-darkblue?style=flat)
+  ![J.K. Rowling](https://img.shields.io/badge/J.K.%20Rowling-Fantasy-magenta?style=flat)
+  
+
+  **I should be adding my book colection too! I will work on it soon!**
+
+  
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahraabdullah)
