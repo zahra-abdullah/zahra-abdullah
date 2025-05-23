@@ -2,10 +2,8 @@
 
 Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ years of experience building scalable, accessible, and user-focused web applications. I specialize in **React**, **TypeScript**, and **cloud-based architecture**, and I'm currently exploring the intersection of **AI and product management**.
 
+🧪 I'm currently exploring LLM-related beginner projects to deepen my hands-on understanding of applied AI and prompt engineering
 
-## 🔭 I’m currently working on:
-
-🧪 Currently exploring LLM-related beginner projects to deepen my hands-on understanding of applied AI and prompt engineering
 
 ## 🔧 Skills & Tools
 <div align="center">
@@ -23,7 +21,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 - ☁ Cloud & DevOps: AWS, CI/CD, Jenkins
 - 📈 Other: Agile, Jira, Microservices, Data Analytics, Product Strategy
   
-## 🌱 I’m currently learning:
+## 🔭 I’m currently learning:
 
 - 🎓 Master's in Engineering Management @ University of Ottawa
 - 🤖 AWS Certified AI Practitioner (In Progress)
@@ -36,6 +34,12 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 *Amazon Web Services*  
 [![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url)
 
+## Interests
+
+### Anime & Books
+- 📺 Anime / Manga enthusiast - whats even happening now in OnePiece
+  ![One Piece](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2aDA2eDgwcW43dmZ2ZG9wOHdsNnQxd3cwcnk4cWJkMHFwMGpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif)
+- 📚 Avid reader
 
 ## 📫 How to reach me:
 
