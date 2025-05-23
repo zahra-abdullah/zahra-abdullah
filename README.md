@@ -44,13 +44,13 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 ### Books
 - 📚 Avid reader
 
-**I will pick these folks over any other authors**
+**I will pick these two over any other authors**
 
 ![Stephen King](https://img.shields.io/badge/Stephen%20King-Horror%20Master-red?style=flat)
 ![Sujatha](https://img.shields.io/badge/Sujatha-Tamil%20Sci--Fi-orange?style=flat)
 
 
-**These are few other who defined my teenage and reading era**
+**These are few others who defined my teenage and reading era**
 
 
   ![Dan Brown](https://img.shields.io/badge/Dan%20Brown-Thriller-blue?style=flat)
