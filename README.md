@@ -30,10 +30,10 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 
 ## 🏅 Certifications
 
-<a href="[https://www.credly.com/badges/8cfa5e1c-d1b0-4a3d-87e7-3cba3b10f1b1](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url)" target="_blank"> <img src="[https://images.credly.com/size/340x340/images/60030167-ab95-46aa-82c0-4f4abbba7506/image.png](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" alt="AWS Certified Cloud Practitioner Badge" width="100"/> </a>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner">
 AWS Certified Cloud Practitioner
-Issued by Amazon Web Services via Credly
-🔗 View Credential on Credly
+Amazon Web Services
+View Credential on Credly
 
 
 ## 📫 How to reach me:
