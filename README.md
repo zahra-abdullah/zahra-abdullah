@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 
 **AWS Certified Cloud Practitioner**  
 *Amazon Web Services*  
-[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com)
+[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url)
 
 
 ## 📫 How to reach me:
@@ -48,20 +48,6 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 Thanks for stopping by! 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zahraabdullah&color=blue)
-
-- 🧪 Testing: Jest, TDD, QA Automation
-
-## 📚 Current Learning
-
-- 🧠 AI Product Management
-
-## 📈 GitHub Profile Visitor Count
-
-
-## 🌱 Let's Connect
-
-
-
 
 <!--
 **zahra-abdullah/zahra-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
