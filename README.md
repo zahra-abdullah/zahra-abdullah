@@ -34,6 +34,12 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 *Amazon Web Services*  
 [![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url)
 
+<img src="https://images.credly.com/size/340x340/images/e68dad9e-eb7b-4500-a1d3-78ea36b9b5b3/image.png" width="100" height="100" alt="AWS Certified AI Practitioner"> 
+
+**AWS Certified Cloud Practitioner**  
+*Amazon Web Services*    
+[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/12124787-51e4-4ab7-aedd-d01b214bfb22/public_url)
+
 ## Interests
 
 ### Anime
