@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 
 <div align="center">
 
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner"> <img src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/image.png" width="100" height="100" alt="AWS Certified AI Practitioner">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner"> <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" height="100" alt="AWS Certified AI Practitioner">
 
 **AWS Certified Cloud Practitioner** | **AWS Certified AI Practitioner**  
 *Amazon Web Services*  
