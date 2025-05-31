@@ -27,18 +27,18 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 - 🤖 AWS Certified AI Practitioner (In Progress)
 
 ## 🏅 Certifications
+### Foundational
 
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner">
+<div align="center">
 
-**AWS Certified Cloud Practitioner**  
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner"> <img src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/image.png" width="100" height="100" alt="AWS Certified AI Practitioner">
+
+**AWS Certified Cloud Practitioner** | **AWS Certified AI Practitioner**  
 *Amazon Web Services*  
-[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url)
+[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/5f1f7616-0af0-45ec-a4e6-0b5f74b80fc1/public_url) [![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](#)
 
-<img src="https://images.credly.com/size/340x340/images/14ad4b26-e42e-434c-b9b4-b7fb45e00ae6/image.png" width="100" height="100" alt="AWS Certified AI Practitioner"> 
+</div>
 
-**AWS Certified AI Practitioner**  
-*Amazon Web Services*    
-[![Credly](https://img.shields.io/badge/Credly-View%20Credential-orange?style=flat&logo=credly)](https://www.credly.com/badges/12124787-51e4-4ab7-aedd-d01b214bfb22/public_url)
 
 ## Interests
 
