@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 ## Interests
 
 ### Anime
-- 📺 Anime / Manga enthusiast - whats even happening now in OnePiece guys!!!!
+- 📺 Anime / Manga enthusiast - what's even happening now in OnePiece guys!!!!
 
   ![One Piece](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2aDA2eDgwcW43dmZ2ZG9wOHdsNnQxd3cwcnk4cWJkMHFwMGpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif)
 
