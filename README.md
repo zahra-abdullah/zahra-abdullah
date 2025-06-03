@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 ## 🔭 I’m currently learning:
 
 - 🎓 Master's in Engineering Management @ University of Ottawa
-- 🤖 AWS Certified AI Practitioner (In Progress)
+- 🤖 AWS Solution Architect Associate (In Progress)
 
 ## 🏅 Certifications
 ### Foundational
