@@ -39,6 +39,13 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
 
 </div>
 
+<div align="center"> 
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" height="100" alt="Microsoft Certified: Azure AI Fundamentals">
+  
+**Microsoft Certified: Azure AI Fundamentals**
+
+</div>
+
 
 ## Interests
 
