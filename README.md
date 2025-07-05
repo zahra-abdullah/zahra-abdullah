@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a passionate **Senior Software Engineer** with 8+ year
   
 **Microsoft Certified: Azure AI Fundamentals**
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-View%20Credential-orange?style=flat&logo=microsoft)]([https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/](https://learn.microsoft.com/api/credentials/share/en-us/FathimaZahraMohamedAbdullah-7248/E9554FF5E09E4520?sharingId=1AF68F42D372FB3F))
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-View%20Credential-orange?style=flat&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/FathimaZahraMohamedAbdullah-7248/E9554FF5E09E4520?sharingId=1AF68F42D372FB3F)
 
 </div>
 
